@@ -1,3 +1,4 @@
+<img src ="https://user-images.githubusercontent.com/55612264/219193259-fd8b1b64-bc85-45a9-a0a2-a13088217dbf.jpg"/>
 <div align="center">
 <img src ="https://user-images.githubusercontent.com/97828427/194188121-6abe2d2a-bbe1-4cf0-962d-e9ccccb33412.png" width=70/>
   <h1>미라클버드 (Miracle Bird)</h1>
